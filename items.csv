@@ -1,0 +1,20 @@
+name,type,value,rarity,extra
+Iron Sword,Weapon,100,Common,50
+Dragon Slayer,Weapon,650,Epic,100
+Health Potion,Potion,45,Common,50
+Mana Elixir,Potion,60,Rare,75
+Obsidian Shield,Armor,350,Rare,80
+Broken Item,Weapon,abc,Rare,50
+Invalid Item
+Staff of Wizardry,Magic,500,Epic,0
+Leather Boots,Armor,80,Common,30
+Steel Dagger,Weapon,120,Common,40
+Elven Bow,Weapon,420,Rare,70
+Greater Health Potion,Potion,150,Rare,100
+Cracked Helmet,Armor,,Common,20
+Phoenix Feather,Magic,900,Epic,0
+Chainmail Armor,Armor,300,Common,60
+Dragon Scale Armor,Armor,800,Epic,120
+Ring of Protection,Magic,275,Rare,0
+War Hammer,Weapon,380,Rare,90
+Antidote,Potion,30,Common,40
